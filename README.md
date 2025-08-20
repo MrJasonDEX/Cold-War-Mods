@@ -6,53 +6,48 @@
 [![Use at Your Own Risk](https://img.shields.io/badge/Use%20at%20your%20own%20risk-red)]()
 [![Downloads](https://img.shields.io/github/downloads/MrJasonDEX/Cold-War-Mods/total?label=Repo%20Downloads)]()
 
-A simple and reliable way to inject **MuzzMan’s Cold War Zombies GSC scripts** using a lightweight injector.  
-Quick to set up, easy to use — just download, inject, and play.  
+A **simple and reliable way** to inject **MuzzMan’s Cold War Zombies GSC scripts** using a lightweight DLL injector.  
+Quick setup, easy to use — just download, inject, and play.  
 
-⚠️ **Disclaimer:** If you get banned, you get banned. This is entirely at your own risk.  
-
----
-
-## 📑 Table of Contents
-- [Description](#description)
-- [Downloads](#downloads)
-- [Installation & Usage](#installation--usage)
-- [Changelog](#changelog)
-- [FAQ & Troubleshooting](#faq--troubleshooting)
-- [Credits](#credits)
-- [Warning](#warning)
-- [License](#license)
+⚠️ **Disclaimer:** Use at your own risk. Works **only in private matches**, but friends can join your lobby.
 
 ---
 
-## 📖 Description
-This project provides:
-- A **DLL Injector** to load scripts into **Call of Duty: Black Ops Cold War Zombies**
-- The **MuzzMan GSC Public Release Script**
-
-⚠️ Works **only in private matches**.  
-It does **not** work in public matches, as there is **no force host** support.  
+## 📖 Features
+- Lightweight DLL injector for **Cold War Zombies**  
+- Includes **MuzzMan GSC Public Release Script (V5)**  
+- Works in private matches (friends can join)  
+- Easy setup with minimal configuration  
+- No permanent changes to game files; scripts run only while injected  
 
 ---
 
 ## 📥 Downloads
-
 - **Injector:** [MuzzMan Official Public Release V2.zip](https://github.com/MrJasonDEX/Cold-War-Mods/blob/main/MuzzMan%20Official%20Public%20Official%20Release%20V2.zip)  
-- **GSC Script:** [MuzzManCWPublicReleaseV5.gscc](https://github.com/MrJasonDEX/Cold-War-Mods/blob/main/MuzzManCWPublicReleaseV5.gscc)
+- **GSC Script:** [MuzzManCWPublicReleaseV5.gscc](https://github.com/MrJasonDEX/Cold-War-Mods/blob/main/MuzzManCWPublicReleaseV5.gscc)  
+- **Repository:** [Cold-War-Mods GitHub](https://github.com/MrJasonDEX/Cold-War-Mods)  
 
-💡 You can also grab the files via the [Releases](../../releases) page for easier versioning.
+💡 Check the [Releases page](../../releases) for version history and updates.
 
 ---
 
 ## 🚀 Installation & Usage
+1. Download the injector `.zip` and GSC script  
+2. Extract the injector  
+3. Place the `.gscc` script inside the injector folder  
+4. Launch **Call of Duty: Black Ops Cold War Zombies**  
+5. Run the injector as **Administrator**  
+6. Select the Cold War process and inject  
+7. Start a **private match** — the script is now active!  
 
-1. Download both files from the [downloads](#downloads) section.  
-2. Extract the **injector** `.zip`.  
-3. Place the `.gscc` script inside the injector folder.  
-4. Launch **Call of Duty: Black Ops Cold War Zombies**.  
-5. Run the injector as **Administrator**.  
-6. Select the Cold War process and inject.  
-7. Done — scripts are now active in your **private match**.
+---
+
+## 📸 Media
+**Screenshot – Stats Unlock Example:**  
+![Stats Screenshot](https://mods.is-ne.at/7g5b8PtNe)
+
+**Video Preview:**  
+[TikTok Showcase Video](https://www.tiktok.com/@modzcentral1/video/7540336530565483798)  
 
 ---
 
@@ -67,19 +62,23 @@ It does **not** work in public matches, as there is **no force host** support.
 
 ## ❓ FAQ & Troubleshooting
 
+<details>
+<summary>Click to expand FAQ</summary>
+
 **Q: Injector crashes on launch?**  
-A: Run as Administrator and ensure antivirus isn’t blocking it.  
+A: Run as Administrator and whitelist from antivirus  
 
 **Q: Script doesn’t load?**  
-A: Confirm the `.gscc` file is in the correct folder.  
+A: Confirm the `.gscc` file is in the injector folder  
 
 **Q: Can I use this in public lobbies?**  
-A: **No.** This only works in private matches. Public matches are not supported (no force host).  
+A: No. Works only in private matches (friends can join your lobby)  
+
+</details>
 
 ---
 
 ## 🙌 Credits
-
 - **Created by:** MuzzMan  
 - **Made public by:** MrJasonDEX  
 - Shared for **public use**  
@@ -87,18 +86,14 @@ A: **No.** This only works in private matches. Public matches are not supported 
 ---
 
 ## ⚠️ Warning
-
-- **Use at your own risk.**  
-- Do **not** use in public lobbies (not supported).  
-- Works only in **private matches**.  
-- If you get banned, you get banned.  
+- Use at your own risk  
+- Works only in **private matches** (friends can join you)  
+- If you get banned, it’s on you  
 
 ---
 
 ## 📜 License
-
-This repository is shared for educational purposes only.  
+This repository is for educational purposes.  
 Code/scripts provided by **MuzzMan**. Public release by **MrJasonDEX**.  
 
-You may share and modify with proper credit.  
-Consider applying [MIT License](https://opensource.org/licenses/MIT) if you want others to reuse your work safely.  
+You may share and modify with proper credit. Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.
