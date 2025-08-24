@@ -24,7 +24,7 @@ Quick setup, easy to use — just download, inject, and play.
 
 ## 📥 Downloads
 - **Injector:** [MuzzMan Official Public Release V2.zip](https://github.com/MrJasonDEX/Cold-War-Mods/blob/main/MuzzMan%20Official%20Public%20Official%20Release%20V2.zip)  
-- **GSC Script:** [Menus]()  
+- **GSC Script:** [Menus Folder](https://github.com/MrJasonDEX/Cold-War-Mods/tree/main/PC%20Menus)  
 - **Repository:** [Cold-War-Mods GitHub](https://github.com/MrJasonDEX/Cold-War-Mods)  
 
 💡 Check the [Releases page](../../releases) for version history and updates.
