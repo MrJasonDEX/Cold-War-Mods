@@ -47,7 +47,7 @@ Quick setup, easy to use — just download, inject, and play.
 ![Stats Screenshot](https://mods.is-ne.at/7g5b8PtNe)
 
 **Video Preview:**  
-[TikTok Showcase Video](https://www.tiktok.com/@modzcentral1/video/7540336530565483798)  
+[TikTok Showcase Video](https://vm.tiktok.com/ZNd4R91Ph/)  
 
 ---
 
