@@ -1,4 +1,4 @@
-# 🧟 Cold War Zombies GSC + Injector
+# 🧟 Cold War Zombies & Multiplayer GSC + Injector
 
 [![Status: Public Release](https://img.shields.io/badge/Status-Public%20Release-green)]()
 [![Credit: MuzzMan](https://img.shields.io/badge/Credit-MuzzMan-blue)]()
@@ -6,7 +6,7 @@
 [![Use at Your Own Risk](https://img.shields.io/badge/Use%20at%20your%20own%20risk-red)]()
 [![Downloads](https://img.shields.io/github/downloads/MrJasonDEX/Cold-War-Mods/total?label=Repo%20Downloads)]()
 
-A **simple and reliable way** to inject **MuzzMan’s Cold War Zombies GSC scripts** using a lightweight DLL injector.  
+A **simple and reliable way** to inject **MuzzMan’s Cold War GSC scripts** (Zombies & Multiplayer) using a lightweight DLL injector.  
 Quick setup, easy to use — just download, inject, and play.  
 
 ⚠️ **Disclaimer:** Use at your own risk. Works **only in private matches**, but friends can join your lobby.
@@ -14,31 +14,48 @@ Quick setup, easy to use — just download, inject, and play.
 ---
 
 ## 📖 Features
-- Lightweight DLL injector for **Cold War Zombies**  
-- Includes **MuzzMan GSC Public Release Script (V5)**  
-- Works in private matches (friends can join)  
+- Lightweight DLL injector for **Cold War**  
+- Includes **Zombies & Multiplayer GSC menus**  
+- Works in **private matches** (friends can join)  
 - Easy setup with minimal configuration  
-- No permanent changes to game files; scripts run only while injected  
+- No permanent changes to game files (scripts only run while injected)  
 
 ---
 
 ## 📥 Downloads
-- **Injector:** [MuzzMan Official Public Release V2.zip](https://github.com/MrJasonDEX/Cold-War-Mods/blob/main/MuzzMan%20Official%20Public%20Official%20Release%20V2.zip)  
-- **GSC Script:** [Menus Folder](https://github.com/MrJasonDEX/Cold-War-Mods/tree/main/PC%20Menus)  
-- **Repository:** [Cold-War-Mods GitHub](https://github.com/MrJasonDEX/Cold-War-Mods)  
+- **Full Repository:** [Cold-War-Mods GitHub](https://github.com/MrJasonDEX/Cold-War-Mods)  
+- **Releases Page (Download Latest Injector):** [Releases](../../releases)  
+- **Menus Folder (Zombies + Multiplayer Menus):** [PC Menus](https://github.com/MrJasonDEX/Cold-War-Mods/tree/main/PC%20Menus)  
 
-💡 Check the [Releases page](../../releases) for version history and updates.
+---
+
+## 🎮 Available Menus
+
+### 🧟 Zombies Menus
+- `MuzzManCWPublicReleaseV5.gscc` *(Main Public Zombies Release)*  
+- `Lucy.gscc`  
+- `Lucy_Menu.gscc`  
+- `ProjectHiNAtyu_V1_BOCW.gscc`  
+
+### 🎯 Multiplayer Menus
+- `BlackOpsColdWar_atianmenu_pc.gscc`  
+- `Fun MenuAudio_Packet.gscc`  
+
+💡 Choose whichever script you want to use and place it in the injector folder.  
 
 ---
 
 ## 🚀 Installation & Usage
-1. Download the injector `.zip` and GSC script  
-2. Extract the injector  
-3. Place the `.gscc` script inside the injector folder  
-4. Launch **Call of Duty: Black Ops Cold War Zombies**  
-5. Run the injector as **Administrator**  
-6. Select the Cold War process and inject  
-7. Start a **private match** — the script is now active!  
+1. Download the **repository** or grab the **latest injector** from the [Releases](../../releases) tab  
+2. Extract the injector `.zip`  
+3. Go to **PC Menus** and pick a script (`.gscc`)  
+   - For Zombies, choose one from the **Zombies Menus** list  
+   - For Multiplayer, choose one from the **Multiplayer Menus** list  
+4. Copy your chosen `.gscc` file into the **injector folder**  
+5. Launch **Call of Duty: Black Ops Cold War**  
+6. Run the injector as **Administrator**  
+7. Select the Cold War process and inject  
+8. Start a **private match** — your chosen menu will load in-game!  
 
 ---
 
@@ -53,10 +70,10 @@ Quick setup, easy to use — just download, inject, and play.
 
 ## 📌 Changelog
 
-| Version | Notes |
-|---------|-------|
-| V2 Injector | Public official release |
-| V5 GSC     | Public script release |
+| Version     | Notes                      |
+|-------------|----------------------------|
+| V2 Injector | Public official release    |
+| V5 GSC      | Main Zombies script release|
 
 ---
 
@@ -66,13 +83,16 @@ Quick setup, easy to use — just download, inject, and play.
 <summary>Click to expand FAQ</summary>
 
 **Q: Injector crashes on launch?**  
-A: Run as Administrator and whitelist from antivirus  
+A: Run as Administrator and whitelist it from antivirus  
 
 **Q: Script doesn’t load?**  
-A: Confirm the `.gscc` file is in the injector folder  
+A: Make sure the `.gscc` file is inside the injector folder  
 
 **Q: Can I use this in public lobbies?**  
-A: No. Works only in private matches (friends can join your lobby)  
+A: ❌ No. Works only in **private matches** (friends can join)  
+
+**Q: Do I need to edit game files?**  
+A: ❌ No. Nothing is permanent, scripts run only while injected  
 
 </details>
 
@@ -88,12 +108,13 @@ A: No. Works only in private matches (friends can join your lobby)
 ## ⚠️ Warning
 - Use at your own risk  
 - Works only in **private matches** (friends can join you)  
-- If you get banned, it’s on you  
+- If you get banned, it’s your responsibility  
 
 ---
 
 ## 📜 License
-This repository is for educational purposes.  
+This repository is for **educational purposes only**.  
 Code/scripts provided by **MuzzMan**. Public release by **MrJasonDEX**.  
 
-You may share and modify with proper credit. Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.
+You may share and modify with proper credit.  
+Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.  
