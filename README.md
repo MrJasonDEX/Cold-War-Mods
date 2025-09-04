@@ -113,9 +113,11 @@ Ensure the `.gscc` file is in the correct folder:
 ---
 
 ## 🙌 Credits
-- 🧑‍💻 **Created by:** MuzzMan  
-- 🌍 **Made Public by:** MrJasonDEX  
-- 📢 Shared for **educational/public use**  
+- 🧑‍💻 **Original Zombies GSC Work:** [MuzzMan](https://github.com/Muzzman)  
+- 🧑‍💻 **Lucy Base & Additional Features:** [TheUnknownCod3r](https://github.com/TheUnknownCod3r/ColdWar-Lucy-Base)  
+- 🌍 **Made Public By:** MrJasonDEX  
+- 📢 Shared for **educational/public use only**
+
 
 ---
 
@@ -125,11 +127,10 @@ Ensure the `.gscc` file is in the correct folder:
 - If you get banned, it’s **your responsibility**  
 
 ---
-
-## 📜 License
+## 📜 License & Disclaimer
 This repository is for **educational purposes only**.  
-- Scripts authored by **MuzzMan**  
-- Public release by **MrJasonDEX**  
+- Scripts Created by **MuzzMan** and **TheUnknownCod3r**  
+- Public release by **MrJasonDEX**  (~Am not a dev)
 
 You are free to share and modify with **proper credit**.  
-👉 Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.  
+👉 Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.
