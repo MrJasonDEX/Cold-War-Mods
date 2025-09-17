@@ -149,7 +149,7 @@ Ensure the `.gscc` file is in the correct folder:
 ## 🙌 Credits
 - 🧑‍💻 **Original Zombies GSC Work:** [MuzzMan](https://github.com/Muzzman)  
 - 🧑‍💻 **Lucy Base & Additional Features:** [TheUnknownCod3r](https://github.com/TheUnknownCod3r/ColdWar-Lucy-Base)  
-- 🪄 **Wonder Weapon Tool:** Dev member in Infinity Loader *(legend)*  
+- 🪄 **Wonder Weapon Tool:** Moutain0110 *(legend)*  
 - 🔄 **Update Tool (Batch):** Community open-source update script  
 - 🌍 **Made Public By:** MrJasonDEX  
 
@@ -166,7 +166,7 @@ Ensure the `.gscc` file is in the correct folder:
 This repository is for **educational purposes only**.  
 - Scripts authored by **MuzzMan** and **TheUnknownCod3r**  
 - Public release by **MrJasonDEX**  
-- Extra tools by **Infinity Loader Devmember** & community  
+- Extra tools by **moutain0110**  
 
 You are free to share and modify with **proper credit**.  
 👉 Consider applying the [MIT License](https://opensource.org/licenses/MIT) for safe reuse.  
